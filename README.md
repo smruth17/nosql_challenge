@@ -1,2 +1,3 @@
 # nosql_challenge
 Homework for Module 12
+The assignment for week 12 was the nosql_challenge. The first part consisted of starting a new Database and collection in MongoDB Compass, as well as importing a json file with all of the data. Then I used the starter code in my Jupyter Notebook to connect to the MongoClient and update the database with pymongo. The updates included adding establishments, updating ID types, removing establishments, and converting string values to decimal and integer numbers. After the updating, I used another Jupyter notebook to explore the database and analyze the data based on the questions that were asked. I used MondgoDB comparison operators, MongoDB aggregations accumulators, count_documents, pprint, and Pandas in the analysis. 
